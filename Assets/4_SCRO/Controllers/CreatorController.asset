@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32f30c3e8556d754585b6efbf15837c1, type: 3}
+  m_Name: CreatorController
+  m_EditorClassIdentifier: 
+  itemsPrefabs:
+  - {fileID: 6281446533884279547, guid: 6a073800a657ec04480f216ecc93d892, type: 3}
+  - {fileID: 500440692795065289, guid: 78c20bd3d03058944921e85fb0420fa6, type: 3}
+  - {fileID: 6086659727454251817, guid: bb3ace3584a49ac4d8cf470bdbbc9cde, type: 3}

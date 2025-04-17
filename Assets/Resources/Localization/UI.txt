@@ -1,0 +1,10 @@
+Settings;Настройки;Settings
+Level;Уровень;Level
+Win;Уровень пройден;Win level!
+Lose;Проигрыш;Lose
+NextLevel;Следующий уровень;Next level
+Next;Далее;Next
+Restart;Заново;Restart
+SkipLevel;Пропустить уровень;Skip level
+Sounds;Звуки;Sounds
+Music;Музыка;Music
